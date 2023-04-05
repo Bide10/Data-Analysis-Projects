@@ -1,8 +1,12 @@
 # Data Analysis Projects
 
 Hello and Welcome to my Github repository :D
+
+
 Here I am going to upload all the Data Analysis/Science projects I will be performing 
 For all the projects uploaded till now , feel free to download and see for yourself at your own pace.
+
+
 To download : open the ipynb file and click on the download button to download the jupyter notebook of the project.
               And dont worry the datasets are right below the jupyter notebook those are in .csv and .xlsx format.
 
