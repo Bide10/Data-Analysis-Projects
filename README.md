@@ -3,8 +3,8 @@
 Hello and Welcome to my Github repository :D
 
 
-Here I am going to upload all the Data Analysis/Science projects I will be performing 
-For all the projects uploaded till now , feel free to download and see for yourself at your own pace.
+🚀 Exploring the universe of data, I'm Bideepto, a passionate Data Analyst weaving engineering precision with corporate acumen. In the dynamic interplay of information, my mission is to transmute raw data into strategic gold, igniting success for businesses.
+This Repositoy will contain all of my data analysis projects performed over the course of time. Feel free to download and if you want you can perform your own analysis as well, I have provided a short introduction to all the individual projects inside the project files along with the python notebook file and dataset used. Any kind of feedback/suggestion/rectification is always welcome :D 
 
 
 ## To download : 
