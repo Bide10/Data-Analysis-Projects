@@ -42,7 +42,7 @@ Suggested targeted retention strategies based on customer risk scores generated 
 By accurately predicting customer churn, this model offers the following benefits to businesses:
 
 * Proactive Retention Strategies: Enables targeted marketing campaigns and personalized offers for at-risk customers.
-Revenue Preservation: Reduces revenue loss by focusing on retaining high-value customers.
+* Revenue Preservation: Reduces revenue loss by focusing on retaining high-value customers.
 * Enhanced Customer Experience: Helps improve customer satisfaction by addressing concerns before they escalate into churn.
 This project serves as a foundation for integrating predictive analytics into customer retention workflows, empowering businesses to transition from reactive to proactive management of churn.
 
