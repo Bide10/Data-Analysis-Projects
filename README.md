@@ -3,8 +3,13 @@
 Hello and Welcome to my Github repository :D
 
 
-🚀 Exploring the universe of data, I'm Bideepto, a passionate Data Analyst weaving engineering precision with corporate acumen. In the dynamic interplay of information, my mission is to transmute raw data into strategic gold, igniting success for businesses.
-This Repositoy will contain all of my data analysis projects performed over the course of time. Feel free to download and if you want you can perform your own analysis as well, I have provided a short introduction to all the individual projects inside the project files along with the python notebook file and dataset used. Any kind of feedback/suggestion/rectification is always welcome :D 
+🚀 Exploring the universe of data, I'm Bideepto, a Data Scientist weaving engineering precision with corporate acumen. In the dynamic interplay of information, my mission is to transmute raw data into strategic gold, igniting success for businesses.
+
+Right now, I’m diving deep into the world of weather nowcasting, building some pretty cool deep learning models with complex CNN and RNN architectures. It’s all about predicting the skies with real-time accuracy and making sense of meteorological data.
+
+This repository contains all of my data analysis and deep learning projects performed over time. Feel free to download and explore! Each project includes a brief introduction, the Python notebook files, and the datasets used. You are welcome to perform your own analysis and provide feedback, suggestions, or rectifications. Let's collaborate and learn together! :D
+
+
 
 
 ## To download : 
