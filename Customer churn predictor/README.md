@@ -1,7 +1,7 @@
 # Customer Churn Prediction Using Artificial Neural Networks (ANN)
 
 
-📌 Project Overview
+### 📌 Project Overview
 
 Customer retention is a critical factor for businesses aiming to achieve long-term success. Losing existing customers, commonly referred to as customer churn, can significantly impact revenue and brand reputation. This project demonstrates how data-driven solutions can empower businesses to proactively address churn by identifying at-risk customers and taking timely action.
 
