@@ -12,6 +12,6 @@ In this project, I developed a predictive model using Artificial Neural Networks
 The company faces a persistent challenge: identifying which customers are likely to stop using their products or services in the near future. Traditional approaches to addressing churn often rely on retrospective analysis, limiting their ability to take preemptive action.
 
 Key questions addressed:
-What factors influence customer churn?
-How can we accurately predict whether a customer is at risk of churning?
-How can the company leverage predictive analytics to implement retention strategies effectively?
+* What factors influence customer churn?
+* How can we accurately predict whether a customer is at risk of churning?
+* How can the company leverage predictive analytics to implement retention strategies effectively?
