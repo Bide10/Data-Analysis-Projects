@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using Artificial Neural Networks (ANN)
+# Churn Prediction for Banking Using Artificial Neural Netwroks
 
 
 ### 📌 Project Overview
