@@ -30,3 +30,5 @@ To enhance classification accuracy and robustness, the following improvements ca
  - Deploying the Model: Creating a web or mobile app where users can upload an image and get real-time classification results.
 ### 📊 Results
 The model successfully classifies images as either a cat or a dog, showcasing the effectiveness of CNNs in image recognition tasks.
+
+#### Note: I did not add any dataset due to its size. 
